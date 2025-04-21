@@ -1,7 +1,8 @@
 ### Hello and welcome to the my Github page. My name is Emre but you can call me xdrking  👋
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emreflp) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emre-aciroğlu/)](https://www.linkedin.com/in/emre-aciroğlu/)
+ 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=xdrking&show_icons=true&theme=radical)
 
